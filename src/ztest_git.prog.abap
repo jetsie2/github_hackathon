@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ztest_git.
 
-write: 'write test from sap to git'.
+write: 'write test from git to sap'.
