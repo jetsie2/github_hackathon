@@ -1,2 +1,2 @@
 REPORT Z_TESTABAP2_HELLOWORLD
-write: 'hello git'.
+write: 'hello git and Erkan'.
