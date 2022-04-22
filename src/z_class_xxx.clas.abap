@@ -25,5 +25,7 @@ CLASS Z_CLASS_XXX IMPLEMENTATION.
 
 
   method WRITE_GITHUB_TO_SAP.
+  
+  write: 'bye everyone'.
   endmethod.
 ENDCLASS.
