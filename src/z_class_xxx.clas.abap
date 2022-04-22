@@ -16,7 +16,11 @@ ENDCLASS.
 
 CLASS Z_CLASS_XXX IMPLEMENTATION.
 
+
   method WRITE_GITHUB_FROM_SAP.
+
+  write: 'hello everyone'.
+
   endmethod.
 
 
