@@ -24,6 +24,7 @@ CLASS Z_CLASS_XXX IMPLEMENTATION.
   method WRITE_GITHUB_TO_SAP.
 
     WRITE: 'From github to sap'.
+    
 
   endmethod.
 ENDCLASS.
