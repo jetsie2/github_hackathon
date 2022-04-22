@@ -8,6 +8,8 @@ protected section.
 private section.
 
   methods WRITE_GITHUB .
+
+  methods WRITE_GITHUB_TO_SAP .
 ENDCLASS.
 
 
@@ -24,7 +26,7 @@ CLASS Z_CLASS_XXX IMPLEMENTATION.
   method WRITE_GITHUB_TO_SAP.
 
     WRITE: 'From github to sap'.
-    
+
 
   endmethod.
 ENDCLASS.
